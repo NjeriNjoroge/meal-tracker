@@ -1,0 +1,24 @@
+h1{
+  color: #661959;
+  font-size: 80px;
+
+}
+.jumbotron{
+  color: #661959;
+  text-align: center;
+
+  background-color:transparent !important;
+}
+
+hr{
+  font: 4px;
+  padding: 1px;
+  border: none;
+  border: 0;
+  height: 2px;
+  background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(173, 35, 35, 0.75), rgba(0, 0, 0, 0));
+
+}
+.container.row{
+  margin-left: 2.5%;
+}
